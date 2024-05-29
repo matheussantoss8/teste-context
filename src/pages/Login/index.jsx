@@ -30,6 +30,7 @@ export function Login() {
       <main className={styles.main}>
         <Link to="/painel">
           <h1 className={styles.title}>Dev Login</h1>
+          <h3 className={styles.title}>Um lugar para o futuro</h3>
         </Link>
         <form onSubmit={handleLogin}  className={styles.form}>
           <input
