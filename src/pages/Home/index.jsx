@@ -37,6 +37,7 @@ export function Home() {
         <main className={styles.content}>
           <div className={styles.message}>
             <h1 className={styles.title}>Olá {user.name} bem vindo!</h1>
+            <p>Aqui fica armazenado todos os seus dados</p>
 
             <span>Email: {user.email}</span>
 
