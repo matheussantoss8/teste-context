@@ -3,3 +3,9 @@ function singUp(email) {
 }
 
 // fazendo somente um teste de git branch
+
+function login() {
+    return 'seja bem vindo'
+}
+
+// teste de branch 
